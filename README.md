@@ -1,6 +1,6 @@
 # Widget Form Login
 
-A new Flutter project created with https://flutlab.io
+Repositório conténdo o código referente à aula sobre Widget Form e criação de um protótipo de uma tela de Login
 
 ## Getting Started
 
